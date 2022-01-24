@@ -2,6 +2,7 @@
 i=0
 i=4
 j=0
+print("Nuevo mensaje 24/01/2022 4:00pm")
 for i in range(4,10): 
     print("valor i=%s"%i)   
     if i>=8:
