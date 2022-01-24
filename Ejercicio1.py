@@ -8,9 +8,10 @@ for i in range(4,10):
     if i>=8:
         j=j+1
         print("Valor j=%s"%j)
-         
+        print ("Mensaje interno 4:30PM")         
     i=i+1
 print("Salida")
 print("Mensaje nuevo Julian 24/01/2022")
+
 
 
